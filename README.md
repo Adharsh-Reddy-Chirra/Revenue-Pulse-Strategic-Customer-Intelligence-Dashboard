@@ -38,7 +38,7 @@ The project utilizes the **UCI Online Retail Dataset**, a real-world transaction
 *   **Cleaning Challenges:** Resolved significant noise including missing Customer IDs, negative quantities (returns), and extreme price outliers.
 
 ## 📸 Dashboard Preview
-**Link to the interactive Dashboard:** 
+**Link to the interactive Dashboard:** https://revenue-pulse.streamlit.app/
 
 <img width="1842" height="873" alt="image" src="https://github.com/user-attachments/assets/0b285cb9-ff1a-4dee-abb3-c43185cb91ef" />
 
@@ -51,7 +51,7 @@ The project utilizes the **UCI Online Retail Dataset**, a real-world transaction
 
 ## 🚀 How to Run the App
 1️⃣ **Install Prerequisites**  
-Make sure Python 3.8+ is installed.
+Make sure latest version of Python is installed.
 
 2️⃣ **Install Dependencies**  
 ```bash
